@@ -1,2 +1,0 @@
-negro 1:010001
-negro 2:2c2a2c
